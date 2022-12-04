@@ -1,0 +1,3 @@
+/home/zzy/LearnCmake/build/CMakeFiles/edit_cache.dir
+/home/zzy/LearnCmake/build/CMakeFiles/rebuild_cache.dir
+/home/zzy/LearnCmake/build/CMakeFiles/Tutorial.dir
