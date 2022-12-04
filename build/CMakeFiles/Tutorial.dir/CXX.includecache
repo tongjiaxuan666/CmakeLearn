@@ -7,6 +7,8 @@
 #IncludeRegexTransform: 
 
 /home/zzy/LearnCmake/tutorial.cpp
+TutorialConfig.h
+-
 cmath
 -
 cstdlib
@@ -15,4 +17,6 @@ iostream
 -
 string
 -
+
+TutorialConfig.h
 
