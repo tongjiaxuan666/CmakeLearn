@@ -6,21 +6,11 @@
 
 #IncludeRegexTransform: 
 
-../MathFunctions/MathFunctions.h
+/home/zzy/LearnCmake/MathFunctions/MathFunctions.h
 
-/home/zzy/LearnCmake/tutorial.cpp
-TutorialConfig.h
--
-cmath
--
-cstdlib
--
+/home/zzy/LearnCmake/MathFunctions/mysqrt.cpp
 iostream
 -
-string
--
 MathFunctions.h
-/home/zzy/LearnCmake/MathFunctions.h
-
-TutorialConfig.h
+/home/zzy/LearnCmake/MathFunctions/MathFunctions.h
 

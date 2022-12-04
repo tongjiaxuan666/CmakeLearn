@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "../CMakeLists.txt"
+  "../MathFunctions/CMakeLists.txt"
   "../TutorialConfig.h.in"
   "CMakeFiles/3.5.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.5.1/CMakeCXXCompiler.cmake"
@@ -39,9 +40,11 @@ set(CMAKE_MAKEFILE_OUTPUTS
 set(CMAKE_MAKEFILE_PRODUCTS
   "TutorialConfig.h"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "MathFunctions/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Tutorial.dir/DependInfo.cmake"
+  "MathFunctions/CMakeFiles/MathFunctions.dir/DependInfo.cmake"
   )

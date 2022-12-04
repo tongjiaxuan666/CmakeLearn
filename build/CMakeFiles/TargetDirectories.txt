@@ -1,3 +1,6 @@
 /home/zzy/LearnCmake/build/CMakeFiles/edit_cache.dir
 /home/zzy/LearnCmake/build/CMakeFiles/rebuild_cache.dir
 /home/zzy/LearnCmake/build/CMakeFiles/Tutorial.dir
+/home/zzy/LearnCmake/build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/zzy/LearnCmake/build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/zzy/LearnCmake/build/MathFunctions/CMakeFiles/MathFunctions.dir
